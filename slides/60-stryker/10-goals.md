@@ -1,5 +1,7 @@
-### Stryker Strength
+### Stryker's Strength
 
-1. <!-- .element: class="fragment" --> Be _easy_ to use
-1. <!-- .element: class="fragment" --> Be _fast_ to run
-1. <!-- .element: class="fragment" --> Be _expandable_ to all JS use cases
+* ![easy](/img/easy.png) <!-- .element class="emblem"--> _easy_ to use  
+* ![fast](/img/fast.png) <!-- .element class="emblem"--> _fast_ to run  
+* ![puzzle](/img/puzzle.png) <!-- .element class="emblem"--> _expandable_ to all JS use cases  
+
+<!--.element class="no-list-emblem"-->

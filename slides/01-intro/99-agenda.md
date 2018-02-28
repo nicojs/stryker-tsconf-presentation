@@ -1,5 +1,4 @@
-## Improve test quality
-### using mutation testing
+## Agenda
 
 * The challenge
 * Mutation testing

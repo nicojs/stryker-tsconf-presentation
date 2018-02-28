@@ -1,2 +1,4 @@
-## Improve test quality
+## Improving test quality
 ### using mutation testing
+
+![stryker](/img/stryker.png)

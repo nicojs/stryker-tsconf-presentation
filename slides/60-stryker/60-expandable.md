@@ -8,4 +8,6 @@
 ![karma](/img/karma.svg)<!-- .element class="fragment emblem logo-emblem" -->
 ![babel](/img/babel.svg)<!-- .element class="fragment emblem logo-wide" -->
 ![webpack](/img/webpack.svg)<!-- .element class="fragment emblem logo-wide" -->
-![typescript](/img/ts.svg)<!-- .element class="fragment emblem logo-wide" data-autoslide="0" -->
+![typescript](/img/ts.svg)<!-- .element class="fragment emblem logo-wide" -->
+![react](/img/react.svg)<!-- .element class="fragment emblem logo-emblem" -->
+![angular](/img/angular.svg)<!-- .element class="fragment emblem logo-emblem" data-autoslide="0" -->

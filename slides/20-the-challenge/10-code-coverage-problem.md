@@ -1,10 +1,10 @@
-### Code coverage problem
+### Code coverage helps...
 
 ```ts
 // Production code
-class User{
+class User {
     constructor(private age: number) { }
-    isMature(){
+    isMature() {
         return this.age >= 18;
     }
 }
@@ -16,6 +16,6 @@ var user = new User(24);
 assert.equal(user.isMature(), true);
 ```
 
-Code coverage 100%
+Code coverage 100%, but wait...
 
 <!-- .element class="fragment" -->
